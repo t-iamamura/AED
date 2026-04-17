@@ -17,7 +17,7 @@ Sistema de gerenciamento e classificação de times baseado em regras de desempa
 * **Técnicas aplicadas:** Construção do zero do sistema de nós, controle rigoroso de ponteiros direcionais (`ant` e `prox`) e lógica de ordenação e inserção in-place.
 
 ## 🚀 Tecnologias
-* **Linguagens:** C / C++
+* **Linguagens:** C
 * **Conceitos Chave:** Gerenciamento Manual de Memória, Alocação Dinâmica, Estruturas de Dados Não-Lineares.
 
 ---
